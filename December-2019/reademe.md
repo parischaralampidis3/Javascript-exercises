@@ -1,0 +1,1 @@
+This is a repository that contains Javascript exercises assigned from Social Hackers Academy during the period December 2019 - June 2020
