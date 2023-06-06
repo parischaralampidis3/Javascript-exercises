@@ -1,0 +1,14 @@
+button {
+  padding: 20px;
+  margin: 20px 20px 20px 20px;
+  font-size: 24px;
+}
+
+#customer {
+  font-size: 30px;
+  list-style-type: none;
+}
+#customers {
+  font-size: 30px;
+  list-style-type: none;
+}

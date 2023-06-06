@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Paris Charalampidis",
+    "company": "PC systems",
+    "phone": "6947491008"
+  },
+  {
+    "id": 2,
+    "name": "Stamatia Kagkelari",
+    "company": "Theatro AE.",
+    "phone": "6950107134"
+  },
+  {
+    "id": 3,
+    "name": "Dimitris Mamios",
+    "company": "Epic Games",
+    "phone": "6946018758"
+  }
+]

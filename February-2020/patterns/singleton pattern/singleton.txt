@@ -1,0 +1,7 @@
+singleton pattern 
+
+it's a manifestation of the module pattern.
+A singleton pattern is an immediate anonymous function and it can only return only one instance of an object at a time, meaning that repeated calls to the constructor will return the same instance.
+Like the module pattern it mantains a private reference which nothing from the outside can access
+Often times singletons are frowned upon because they give you a global point of access rather than embracing encapsulation
+Also the can be hard to debug 

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+    crossorigin="anonymous">
+  <title>Task List</title>
+</head>
+
+<body>
+  <div class="container">
+      <div class="row">
+        <div class="col s12">
+          <div id="main" class="card">
+            <div class="card-content">
+              <span id="card-title">Task List</span>
+                <div class="row">
+                  
+                  <!--traversing the dom-->
+                    <div class="list">
+                        <div class="list-item">i love javascript</div>
+                        <div class="list-item">i love react</div>
+                        <div class="list-item">i want a job</div>
+                    </div>
+
+                    <ul class="child-list">
+                      <li class="child-item">i am first child</li>
+                      <li classs="child-item">i am second child</li>
+                      <li class="child-item">i am third child</li>
+                    </ul>
+
+                    <div id="section">
+                      <h1>My big header</h1>
+                      <p>it's a paragraph</p>
+                    </div>
+                    <button id="btn">click me</button>
+                </div>
+            <div class="collection-item"></div>
+            <div class="card-action">
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+  <script src="app.js"></script>
+</body>
+
+</html>

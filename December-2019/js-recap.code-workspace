@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../January 2020/object exercise"
+		}
+	],
+	"settings": {
+		"nuxt.isNuxtApp": false,
+		"liveServer.settings.multiRootWorkspaceName": "December-2019",
+		"liveServer.settings.port": 5502
+	}
+}
